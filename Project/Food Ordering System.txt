@@ -1,0 +1,40 @@
+Project : Food ordering system
+
+Due 	: March
+Price 	: 900
+
+Deposit : 300 (19/01/2022)
+2nd pay : 
+
+A. Users
+	Register				
+	Login					/
+	Update profile
+	Menu selection
+	Menu Ordering
+	Edit order
+
+B. Owner
+	Login					/
+	Upload Menu
+	Update Pricing of Menu
+	Check Order
+	Send Notificarion
+	Delete serving Order
+
+C.  Admin
+	Login					/
+	Register Owner			/
+	Manage Users			/
+	Edit Users				/
+	Delete Users			/
+	Manage Menu				/
+	Edit Menu				/
+	Delete Menu				/
+	Check Order
+	Send Notificarion
+	Delete serving Order
+	
+Queuing System
+Demo Paying System
+	
