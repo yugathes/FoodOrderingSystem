@@ -151,7 +151,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`username`, `password`, `name`, `email`, `Hp`, `type_user`, `ownerCategory`) VALUES
 ('Admin', '1234', 'Admin2', 'admin2@gmail.com', '60149165192', 'Admin', NULL),
-('Yuga', '1234', 'Yugathes Subramaniam', 'yugathesyuga@gmail.com', '60149165192', 'User', NULL),
+('Yuga', '1234', 'Yuga', 'yuga@gmail.com', '601272993', 'User', NULL),
 ('Owner', '1234', 'Owner', 'owner@gmail.com', '60163498231', 'Owner', 1),
 ('Indian', '1234', 'Thinesh', 'thinesh@gmail.com', '0177927739', 'Owner', 2),
 ('Chinese', '1234', 'Amirul', 'amirul@gmail.com', '016727893', 'Owner', 3),
